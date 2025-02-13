@@ -28,7 +28,7 @@ Estou interessado em aprender DS,ML,AI e 💖 desenvolver meus conhecimentos nes
 - ⚡ Fun fact: Eu 💖 codar 24x7.
 
 - 🎢 Contador de Visitantes:  
-    [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Visita)](https://github.com/cristoferrxan)
+    [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Visitas)](https://github.com/cristoferrxan)
     <br>
 
 ------
