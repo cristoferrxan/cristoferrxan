@@ -28,22 +28,13 @@ Estou interessado em aprender DS,ML,AI e 💖 desenvolver meus conhecimentos nes
 
 ------
 
-𝙎𝙆𝙄𝙇𝙇𝙎 <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<h3> 𝙎𝙆𝙄𝙇𝙇𝙎 <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 
 ---
 ### 𝙄𝘿𝙀𝙨 <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9paGR5bDh0cG01aXlvb29yanlvOWlsejVyNWw5N2hleGpvZ2liOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.gif" width = 50px>  </h2> 
 ---
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25laG9janR0ejhrcTkxdzlrbGlycWdrbXJ2ZTV6N2tnMjB6emh4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" width="32px" alt="IntelliJ">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ5ejdxcDZ3dzc3ejAycDY5anhqOGxyMXhkejRxZXI2eGJwdnZyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px" alt="VS Code">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25laG9janR0ejhrcTkxdzlrbGlycWdrbXJ2ZTV6N2tnMjB6emh4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" width="32px" alt="IntelliJ"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ5ejdxcDZ3dzc3ejAycDY5anhqOGxyMXhkejRxZXI2eGJwdnZyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px" alt="VS Code">
 
 <h2> 𝘾𝙊𝙉𝙀𝘾𝙏𝙀-𝙎𝙀 𝘾𝙊𝙈𝙄𝙂𝙊!<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/cristofer-ruan-dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
