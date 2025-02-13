@@ -1,6 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png?raw=true" height="175px"/></a> <br>
 
-<h1 align="center"  >Oi! <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZ6cThua25yYmJrdjExOGNsdWk1aG5iOHdvM3J0Zzg4aTgyYzJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif width = 60px> Aqui é o  <a target="blank"> Cristofer.</a></h1> <br>
+<h1 align="center">
+  Oi! 
+  <img src="https://i.postimg.cc/7Z6RtRwc/fZmCmxX.gif" width="60px"> 
+  Aqui é o  
+  <a target="_blank">Cristofer.</a>
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&center=true&width=435&lines=Bem-vindo+ao+meu+Git-Hub!+%F0%9F%91%8B%F0%9F%8F%BE;Back-End+Developer%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Apaixonado+em+aprender+coisas+novas+%F0%9F%93%9A+%F0%9F%A7%A0%F0%9F%8E%93" alt="Typing SVG" /></a>
