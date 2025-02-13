@@ -1,8 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png?raw=true" height="175px"/></a> <br>
 
 <h1 align="center">
-  Oi! 
-  <img src="https://i.postimg.cc/7Z6RtRwc/fZmCmxX.gif" width="60px"> 
+  Oi!👋 
   Aqui é o  
   <a target="_blank">Cristofer.</a>
 </h1>
